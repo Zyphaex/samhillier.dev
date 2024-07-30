@@ -31,6 +31,12 @@ function App() {
             If you're interested in working with me or have a question, please
             feel free to get in touch.
           </p>
+          <img
+            src="https://raw.githubusercontent.com/Zyphaex/portfolio/main/src/assets/images/sam-hillier.jpg"
+            width="200"
+            height="200"
+            alt="Sam Hillier"
+          ></img>
         </section>
         <section>
           <h3>Projects</h3>
