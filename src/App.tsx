@@ -6,6 +6,8 @@ function App() {
       <header>
         <h1>Sam Hillier</h1>
         <h2>Full Stack Developer</h2>
+        <p>❗ This website is not finished and does not reflect my skills.</p>
+        <p>View my projects below for examples of my work.</p>
       </header>
       <main>
         <section>
@@ -65,6 +67,22 @@ function App() {
             </a>
             <p>ENJindex, explore NFTs and crypto collectibles.</p>
           </article>
+        </section>
+        <section>
+          <h3>Certifications</h3>
+          <a
+            href="https://credly.com/badges/a4984764-8bc9-44e6-914a-c7c65767c9e1"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <h4>AWS Certified Cloud Practitioner</h4>
+            <img
+              src="https://raw.githubusercontent.com/Zyphaex/portfolio/main/src/assets/images/certifications/aws-cloud-practitioner-foundational.png"
+              alt="AWS Certified Cloud Practitioner"
+              width="100"
+              height="100"
+            ></img>
+          </a>
         </section>
       </main>
       <footer>
