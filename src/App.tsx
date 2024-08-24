@@ -7,7 +7,6 @@ function App() {
         <h1>Sam Hillier</h1>
         <h2>Full Stack Developer</h2>
         <p>❗ This website is not finished and does not reflect my skills.</p>
-        <p>View my projects below for examples of my work.</p>
       </header>
       <main>
         <section>
@@ -52,8 +51,7 @@ function App() {
               <h4>CS2.TEAM</h4>
             </a>
             <p>
-              Find esports teams and players on CS2.TEAM. Level up your gaming
-              identity with our professional esports networking platform.
+              Find esports teams and players on CS2.TEAM.
             </p>
           </article>
           <article>
