@@ -33,7 +33,7 @@ function App() {
             feel free to get in touch.
           </p>
           <img
-            src="https://raw.githubusercontent.com/Zyphaex/portfolio/main/src/assets/images/sam-hillier.jpg"
+            src="https://raw.githubusercontent.com/Zyphaex/samhillier.dev/main/src/assets/images/sam-hillier.jpg"
             width="200"
             height="200"
             alt="Sam Hillier"
@@ -69,13 +69,26 @@ function App() {
         <section>
           <h3>Certifications</h3>
           <a
+            href="https://credly.com/badges/cd51660c-b4b3-4348-8474-6111af2d9f59"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <h4>AWS Certified AI Practitioner</h4>
+            <img
+              src="https://raw.githubusercontent.com/Zyphaex/samhillier.dev/main/src/assets/images/certifications/aws-ai-practitioner-foundational.png"
+              alt="AWS Certified AI Practitioner"
+              width="100"
+              height="100"
+            ></img>
+          </a>
+          <a
             href="https://credly.com/badges/a4984764-8bc9-44e6-914a-c7c65767c9e1"
             target="_blank"
             rel="noopener noreferrer"
           >
             <h4>AWS Certified Cloud Practitioner</h4>
             <img
-              src="https://raw.githubusercontent.com/Zyphaex/portfolio/main/src/assets/images/certifications/aws-cloud-practitioner-foundational.png"
+              src="https://raw.githubusercontent.com/Zyphaex/samhillier.dev/main/src/assets/images/certifications/aws-cloud-practitioner-foundational.png"
               alt="AWS Certified Cloud Practitioner"
               width="100"
               height="100"
