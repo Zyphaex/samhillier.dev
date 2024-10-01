@@ -5,12 +5,10 @@ function App() {
     <>
       <header>
         <h1>Sam Hillier</h1>
-        <h2>Full Stack Developer</h2>
-        <p>❗ This website is not finished and does not reflect my skills.</p>
+        <h2>Software Engineer</h2>
       </header>
       <main>
         <section>
-          <h3>Skills</h3>
           <ul>
             <li>JavaScript</li>
             <li>TypeScript</li>
