@@ -49,36 +49,36 @@ export const skills = [
     badge:
       "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white",
   },
-  {
-    name: "HTML",
-    badge:
-      "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white",
-  },
-  {
-    name: "CSS",
-    badge:
-      "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white",
-  },
+  // {
+  //   name: "HTML",
+  //   badge:
+  //     "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white",
+  // },
+  // {
+  //   name: "CSS",
+  //   badge:
+  //     "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white",
+  // },
   {
     name: "AWS",
     badge:
       "https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white",
   },
-  {
-    name: "Azure",
-    badge:
-      "https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white",
-  },
-  {
-    name: "Docker",
-    badge:
-      "https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white",
-  },
-  {
-    name: "Git",
-    badge:
-      "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white",
-  },
+  // {
+  //   name: "Azure",
+  //   badge:
+  //     "https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white",
+  // },
+  // {
+  //   name: "Docker",
+  //   badge:
+  //     "https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white",
+  // },
+  // {
+  //   name: "Git",
+  //   badge:
+  //     "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white",
+  // },
   // {
   //   name: "PostgreSQL",
   //   badge:
