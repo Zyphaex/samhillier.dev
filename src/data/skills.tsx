@@ -2,7 +2,7 @@ export const skills = [
   {
     name: "JavaScript",
     badge:
-      "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black",
+      "https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black",
   },
   {
     name: "TypeScript",
@@ -37,7 +37,7 @@ export const skills = [
   {
     name: "Express",
     badge:
-      "https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white",
+      "https://img.shields.io/badge/Express.js-242938?style=for-the-badge&logo=express&logoColor=white",
   },
   {
     name: "Vue.js",
@@ -47,7 +47,7 @@ export const skills = [
   {
     name: "Tailwind",
     badge:
-      "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white",
+      "https://img.shields.io/badge/Tailwind-24BBBC?style=for-the-badge&logo=tailwind-css&logoColor=white",
   },
   // {
   //   name: "HTML",
@@ -62,7 +62,7 @@ export const skills = [
   {
     name: "AWS",
     badge:
-      "https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white",
+      "https://img.shields.io/badge/AWS-202B3C?style=for-the-badge&logo=amazonwebservices&logoColor=white",
   },
   // {
   //   name: "Azure",
